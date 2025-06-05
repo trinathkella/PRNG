@@ -1,6 +1,6 @@
 ## Cellular Automata based Pseudo Random Number Generator (CA-PRNG)
 
-This project implements a 32-bit Pseudo Random Number Generator using 1D Cellular Automata (CA) logic combined with a traditional Linear Feedback Shift Register (LFSR). Designed in Verilog, it aims to explore lightweight randomness generation using multiple CA rules.
+This repo contains a 32-bit Pseudo Random Number Generator using 1D Cellular Automata (CA) logic combined with a traditional Linear Feedback Shift Register (LFSR). Designed in Verilog, it aims to explore lightweight randomness generation using multiple CA rules.
 
 ---
 
