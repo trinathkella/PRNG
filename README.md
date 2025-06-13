@@ -7,12 +7,9 @@ This repo contains a 32-bit Pseudo Random Number Generator using 1D Cellular Aut
 ## Features
 
 - 32-bit wide PRNG output
-- 5 distinct CA rulesets implemented:
+- CA rulesets implemented:
   - Rule 30 (Chaotic)
-  - Rule 110
   - Rule 149
-  - Rule 105
-  - Rule 182
 - LFSR-based post-processing stage for entropy enhancement
 - Signal-based dynamic rule selection using intermediate CA outputs
 
